@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:003087,100:FA4616&height=200&section=header&text=Matthew%20Greenspan&fontSize=50&fontColor=ffffff&animation=fadeIn)
+
 # About Me:
 I'm a sophomore CS student at the University of Florida building full-stack applications and sharpening my DSA skills. Currently working on real-time market dashboards and exploring backend development with Python and FastAPI. Looking for Summer 2027 internships
 
