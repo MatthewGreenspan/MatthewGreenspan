@@ -13,8 +13,3 @@ I'm a sophomore CS student at the University of Florida building full-stack appl
 ![](https://github-readme-stats.shion.dev/api?username=MatthewGreenspan&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=MatthewGreenspan&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=MatthewGreenspan&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=MatthewGreenspan&icon=0&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
